@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+ollama
+pydantic
+numpy
+sounddevice
+faster-whisper
+piper-tts
